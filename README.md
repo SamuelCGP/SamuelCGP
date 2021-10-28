@@ -1,11 +1,10 @@
 ## Eu sou Samuel
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/SamuelCGP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelCGP&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCGP&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-<i class="devicon-html5-plain colored"></i>
+<i src="html5-plain.svg"></i>
  
 <!--
 **SamuelCGP/SamuelCGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
