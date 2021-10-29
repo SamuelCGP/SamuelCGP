@@ -13,6 +13,14 @@
   <img align="right" src="https://avatars.githubusercontent.com/u/69848773?v=4" height="150" style="border-radius:50px; border: 2px solid yellowgreen"></img>
 </div>
  
+  ##
+ 
+<div>  
+  <a href = "mailto:cgplays51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **SamuelCGP/SamuelCGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
