@@ -9,9 +9,9 @@
   <img align="center" src="css3-plain.svg" alt="CSS3" height="40" width="50"></img>
   <img align="center" src="javascript-plain.svg" alt="Javascript" height="40" width="50"></img>
   <img align="center" src="typescript-plain.svg" alt="Typescript" height="40" width="50"></img>
-  <img align="center" src="webpack-plain.svg" alt="Typescript" height="40" width="50"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" src="https://avatars.githubusercontent.com/u/69848773?v=4" height="40" width="50" style="border-radius:50px; border: 2px solid yellowgreen"></img>
+  <img align="center" src="webpack-plain.svg" alt="Webpack" height="40" width="50"></img>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="50"/>
+  <img align="right" src="https://avatars.githubusercontent.com/u/69848773?v=4" height="150" style="border-radius:50px; border: 2px solid yellowgreen"></img></img>
 </div>
  
   ##
