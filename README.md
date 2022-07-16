@@ -10,6 +10,7 @@
   <img align="center" src="javascript-plain.svg" alt="Javascript" height="40" width="50"></img>
   <img align="center" src="typescript-plain.svg" alt="Typescript" height="40" width="50"></img>
   <img align="center" src="webpack-plain.svg" alt="Typescript" height="40" width="50"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" src="https://avatars.githubusercontent.com/u/69848773?v=4" height="150" style="border-radius:50px; border: 2px solid yellowgreen"></img>
 </div>
  
